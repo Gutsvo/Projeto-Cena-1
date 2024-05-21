@@ -19,6 +19,8 @@ E decidimos que as duas nações que pensamos poderíam ser substituídas por an
 
 <img src="https://assetstorev1-prd-cdn.unity3d.com/key-image/3bec5af0-6cd2-4d49-8cd3-802e7843aed8.webp">
 <img src="imagens/img2.png">
-Então decidimos que os animais estariam voando em cima das naves para lutar pelo tesouro
+Então decidimos que os animais seriam a Galinha e o Pinguim, e estariam voando em cima das naves para lutar pelo tesouro
 
 Mas... Achamos que ter só dois animais tornava a cena muito vazia, então achamos que ter mais animais seria a solução
+<img src="imagens/img4.png">
+Por isso decidimos adicionar o Tigre para lutar contra o Pinguim e a Galinha, agora eles são aliados e estão lutando contra o Tigre que estava tentando roubar o tesouro deles
