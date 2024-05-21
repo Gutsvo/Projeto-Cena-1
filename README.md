@@ -29,5 +29,6 @@ Mas, algo ainda estava faltando...
 O que seria de um Tower Defense sem tropas aliadas? Então decidimos usar o resto dos animais que não havíamos usado ainda, estes sendo o<i> Cachorro, Gato, Cavalo e Alce</i>
 como cavaleiros que estão lá para ajudar a defender o tesouro, mas não só isso.
 Mas também adicionamos um asset de Caminhões e Carros urbanos, e adicionamos à cena.
+<img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/b284524e-3951-4872-b1d3-aa70f839d40e.webp">
 
 E depois de um tempo, percebemos que as naves também estavam meio vazias, então adicionamos várias bolas, e um material de bolinhas coloridas para atirar no Tigre
