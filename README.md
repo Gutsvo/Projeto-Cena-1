@@ -31,4 +31,25 @@ como cavaleiros que estão lá para ajudar a defender o tesouro, mas não só is
 Mas também adicionamos um asset de Caminhões e Carros urbanos, e adicionamos à cena.
 <img src="https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/b284524e-3951-4872-b1d3-aa70f839d40e.webp">
 
-E depois de um tempo, percebemos que as naves também estavam meio vazias, então adicionamos várias bolas, e um material de bolinhas coloridas para atirar no Tigre
+E depois de um tempo, percebemos que as naves também estavam meio vazias, então adicionamos várias bolas, e um material de bolinhas coloridas para atirar no Tigre.
+
+Também decidimos adicionar uma textura do Cirilo de Carrossel para o tesouro:
+<img src="imagens/cirilio">
+
+E assim ficou o resultado final:
+<img src="imagens/final">
+
+<h1>Como adicionamos os assets</h1>
+Primeiro, vá até a Asset Store da Unity, selecione um asset, e clique no botão "Open in Unity"
+<img src="imagens/img1.png">
+Depois, abrirá uma tela:
+<img src="imagens/img2.png">
+Onde no nosso está escrito "in project", estaria uma opção "Add to project", clique nela e seu projeto terá aquele asset.
+
+<h1>Como adicionamos a colisão</h1>
+Primeiro, clique em "Assets", depois em "Create", e em "Physic material"
+<img src="imagens/colisaopt1">
+Depois, altere os valores para o desejado.
+<img src="imagens/colisaopt2">
+E finalmente, adicione um "RigidBody" ao objeto no qual deseja ter fisica.
+<img src="imagens/colisaopt0.5">
