@@ -53,3 +53,7 @@ Depois, altere os valores para o desejado.
 <img src="imagens/colisaopt2">
 E finalmente, adicione um "RigidBody" ao objeto no qual deseja ter fisica.
 <img src="imagens/colisaopt0.5">
+
+Resultado final:
+https://github.com/Gutsvo/Projeto-Cena-1/assets/105552293/373eab8f-9347-4dc9-8329-15ba0bf2f0b0
+
