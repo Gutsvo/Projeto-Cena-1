@@ -39,14 +39,14 @@ Também decidimos adicionar uma textura do Cirilo de Carrossel para o tesouro:
 E assim ficou o resultado final:
 <img src="imagens/final">
 
-<h1>Como adicionamos os assets</h1>
+<h1 align="center">Como adicionamos os assets</h1>
 Primeiro, vá até a Asset Store da Unity, selecione um asset, e clique no botão "Open in Unity"
 <img src="imagens/img1.png">
 Depois, abrirá uma tela:
 <img src="imagens/img2.png">
 Onde no nosso está escrito "in project", estaria uma opção "Add to project", clique nela e seu projeto terá aquele asset.
 
-<h1>Como adicionamos a colisão</h1>
+<h1 align="center">Como adicionamos a colisão</h1>
 Primeiro, clique em "Assets", depois em "Create", e em "Physic material"
 <img src="imagens/colisaopt1">
 Depois, altere os valores para o desejado.
@@ -55,5 +55,9 @@ E finalmente, adicione um "RigidBody" ao objeto no qual deseja ter fisica.
 <img src="imagens/colisaopt0.5">
 
 Resultado final:
-https://github.com/Gutsvo/Projeto-Cena-1/assets/105552293/373eab8f-9347-4dc9-8329-15ba0bf2f0b0
+
+
+
+https://github.com/Gutsvo/Projeto-Cena-1/assets/105552293/c8f2fa9d-e967-4b5d-aa1c-a04c547763a6
+
 
